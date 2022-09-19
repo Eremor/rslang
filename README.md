@@ -5,6 +5,8 @@ An application for learning English includes a textbook with 3600 words divided 
 
 **Deploy:** https://rslang-v-yelina.netlify.app/
 
+**Backend:** https://github.com/Eremor/react-rslang-be
+
 ![preview](./src/assets/image/main-page.png)
 
 ## Used technologies:

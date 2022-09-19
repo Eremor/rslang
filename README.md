@@ -22,7 +22,7 @@ An application for learning English includes a textbook with 3600 words divided 
 
 ## To run locally:
 1. Clone repository:  
-`git clone git@github.com:v-yelina/rslang.git`
+`git clone git@github.com:Eremor/rslang.git`
 2. Move to folder:  
 `cd rslang`
 3. Install dependencies:  

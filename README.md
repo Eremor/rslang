@@ -3,7 +3,7 @@ An application for learning English includes a textbook with 3600 words divided 
 
 **Task:** https://github.com/rolling-scopes-school/tasks/blob/master/tasks/stage-2/rs-lang/rslang.md
 
-**Deploy:** https://rslang-v-yelina.netlify.app/
+**Deploy:** https://rslang-eremor.netlify.app/
 
 **Backend:** https://github.com/Eremor/react-rslang-be
 
